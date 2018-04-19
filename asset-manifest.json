@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.6a43680e.css",
   "main.css.map": "static/css/main.6a43680e.css.map",
-  "main.js": "static/js/main.2e5fe250.js",
-  "main.js.map": "static/js/main.2e5fe250.js.map",
+  "main.js": "static/js/main.8c0e9e2a.js",
+  "main.js.map": "static/js/main.8c0e9e2a.js.map",
   "static/media/HaydonBrush.ttf": "static/media/HaydonBrush.da0bb4b7.ttf",
   "static/media/ad.svg": "static/media/ad.f54a24d2.svg",
   "static/media/ae.svg": "static/media/ae.d3d1653a.svg",
@@ -241,6 +241,7 @@
   "static/media/vi.svg": "static/media/vi.24789c93.svg",
   "static/media/vn.svg": "static/media/vn.55421cd5.svg",
   "static/media/vu.svg": "static/media/vu.2a533042.svg",
+  "static/media/wave.gif": "static/media/wave.c08c8466.gif",
   "static/media/ws.svg": "static/media/ws.13edfcff.svg",
   "static/media/ye.svg": "static/media/ye.ad22a6ef.svg",
   "static/media/za.svg": "static/media/za.97ae15ae.svg",
