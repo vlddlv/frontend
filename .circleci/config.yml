@@ -41,3 +41,11 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ];
               then CI=false yarn deploy;
             fi
+      - deploy:
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "staging" ];
+              then npm run build:staging && \
+                   cd build && \
+                   $NOW_CLI_PATH --team please -t $NOW_SH_TOKEN && \
+                   $NOW_CLI_PATH --team please -t $NOW_SH_TOKEN alias please-staging
+            fi
