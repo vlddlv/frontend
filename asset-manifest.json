@@ -1,10 +1,10 @@
 {
   "main.css": "static/css/main.3bcf179c.css",
   "main.css.map": "static/css/main.3bcf179c.css.map",
-  "main.js": "static/js/main.b07c6cbd.js",
-  "main.js.map": "static/js/main.b07c6cbd.js.map",
-  "static/js/0.f5fb7603.chunk.js": "static/js/0.f5fb7603.chunk.js",
-  "static/js/0.f5fb7603.chunk.js.map": "static/js/0.f5fb7603.chunk.js.map",
+  "main.js": "static/js/main.c747ad69.js",
+  "main.js.map": "static/js/main.c747ad69.js.map",
+  "static/js/0.27c465eb.chunk.js": "static/js/0.27c465eb.chunk.js",
+  "static/js/0.27c465eb.chunk.js.map": "static/js/0.27c465eb.chunk.js.map",
   "static/js/1.37a0bcef.chunk.js": "static/js/1.37a0bcef.chunk.js",
   "static/js/1.37a0bcef.chunk.js.map": "static/js/1.37a0bcef.chunk.js.map",
   "static/media/back.jpg": "static/media/back.c99ad013.jpg",
@@ -33,6 +33,6 @@
   "static/media/wave.gif": "static/media/wave.c08c8466.gif",
   "vendor.css": "static/css/vendor.6f6417be.css",
   "vendor.css.map": "static/css/vendor.6f6417be.css.map",
-  "vendor.js": "static/js/vendor.c7d05808.js",
-  "vendor.js.map": "static/js/vendor.c7d05808.js.map"
+  "vendor.js": "static/js/vendor.850e933f.js",
+  "vendor.js.map": "static/js/vendor.850e933f.js.map"
 }
