@@ -1,12 +1,12 @@
 {
   "main.css": "static/css/main.3bcf179c.css",
   "main.css.map": "static/css/main.3bcf179c.css.map",
-  "main.js": "static/js/main.3c8bba6f.js",
-  "main.js.map": "static/js/main.3c8bba6f.js.map",
-  "static/js/0.27c465eb.chunk.js": "static/js/0.27c465eb.chunk.js",
-  "static/js/0.27c465eb.chunk.js.map": "static/js/0.27c465eb.chunk.js.map",
-  "static/js/1.37a0bcef.chunk.js": "static/js/1.37a0bcef.chunk.js",
-  "static/js/1.37a0bcef.chunk.js.map": "static/js/1.37a0bcef.chunk.js.map",
+  "main.js": "static/js/main.d2db472b.js",
+  "main.js.map": "static/js/main.d2db472b.js.map",
+  "static/js/0.2a79006c.chunk.js": "static/js/0.2a79006c.chunk.js",
+  "static/js/0.2a79006c.chunk.js.map": "static/js/0.2a79006c.chunk.js.map",
+  "static/js/1.cba9e037.chunk.js": "static/js/1.cba9e037.chunk.js",
+  "static/js/1.cba9e037.chunk.js.map": "static/js/1.cba9e037.chunk.js.map",
   "static/media/back.jpg": "static/media/back.c99ad013.jpg",
   "static/media/brand-icons.eot": "static/media/brand-icons.13db00b7.eot",
   "static/media/brand-icons.svg": "static/media/brand-icons.a1a749e8.svg",
@@ -33,6 +33,6 @@
   "static/media/wave.gif": "static/media/wave.c08c8466.gif",
   "vendor.css": "static/css/vendor.6f6417be.css",
   "vendor.css.map": "static/css/vendor.6f6417be.css.map",
-  "vendor.js": "static/js/vendor.8372e36a.js",
-  "vendor.js.map": "static/js/vendor.8372e36a.js.map"
+  "vendor.js": "static/js/vendor.d45c0d0f.js",
+  "vendor.js.map": "static/js/vendor.d45c0d0f.js.map"
 }
